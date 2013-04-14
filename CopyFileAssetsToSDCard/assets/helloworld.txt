@@ -1,0 +1,4 @@
+﻿Hello word,
+this is the demo of reading file from assets folder.
+
+This is just the normal text file saying Hello world.
